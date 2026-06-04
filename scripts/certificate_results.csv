@@ -1,0 +1,501 @@
+domain,https,issuer,expires,self_signed
+blogspot.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+wikipedia.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+wordpress.org,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-08-24,No
+google.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+made-in-china.com,Yes,"CN=DigiCert Basic OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-09-01,No
+wiktionary.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+europa.eu,Yes,"CN=GlobalSign Atlas R3 OV TLS CA 2025 Q3,O=GlobalSign nv-sa,C=BE",2026-08-14,No
+aif.ru,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-03,No
+apple.com,Yes,"CN=Apple Public EV Server ECC CA 1 - G1,O=Apple Inc.,C=US",2026-07-16,No
+nih.gov,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2027-02-15,No
+qq.com,Yes,"CN=DigiCert Secure Site OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-11-27,No
+indiatimes.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-02,No
+app.link,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2027-02-20,No
+libsyn.com,Yes,"CN=Sectigo Public Server Authentication CA OV E36,O=Sectigo Limited,C=GB",2026-09-04,No
+wikimedia.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+pixnet.net,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-10-28,No
+googlesource.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+rakuten.co.jp,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-10,No
+amazonaws.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-09-30,No
+microsoft.com,Yes,"CN=Microsoft TLS G2 RSA CA OCSP 16,O=Microsoft Corporation,C=US",2026-11-08,No
+sina.com.cn,Yes,"CN=GeoTrust G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-12-30,No
+ox.ac.uk,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-13,No
+airbnb.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-07-08,No
+oclc.org,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-28,No
+yahoo.co.jp,Yes,"CN=Cybertrust Japan SureServer CA G4,O=Cybertrust Japan Co.\, Ltd.,C=JP",2026-12-04,No
+debian.org,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-30,No
+yandex.ru,Yes,"CN=GlobalSign ECC OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-08-06,No
+noaa.gov,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-01,No
+magnific.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-13,No
+nasa.gov,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-07-09,No
+berkeley.edu,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-16,No
+netlify.app,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2027-03-19,No
+uol.com.br,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2027-03-09,No
+mit.edu,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-07,No
+adobe.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2027-01-04,No
+shein.com,Yes,"CN=DigiCert Secure Site OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-08-25,No
+youtube.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+oracle.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-05,No
+alibaba.com,Yes,"CN=GlobalSign GCC R3 OV TLS CA 2024,O=GlobalSign nv-sa,C=BE",2026-10-01,No
+rambler.ru,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-06-13,No
+github.io,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-05,No
+mozilla.org,Yes,"CN=WR3,O=Google Trust Services,C=US",2026-08-27,No
+hatenablog.com,Yes,"CN=Amazon RSA 2048 M03,O=Amazon,C=US",2026-08-09,No
+spb.ru,No,SSL_ERROR,,
+wisc.edu,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-30,No
+udn.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-07-27,No
+github.com,Yes,"CN=Sectigo Public Server Authentication CA DV E36,O=Sectigo Limited,C=GB",2026-08-02,No
+worldbank.org,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-30,No
+web.app,Yes,"CN=WR4,O=Google Trust Services,C=US",2026-08-18,No
+line.me,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-09-11,No
+mail.ru,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-11-22,No
+obozrevatel.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-12,No
+substack.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-22,No
+wixsite.com,No,DNS_ERROR (domain not resolved),,
+free.fr,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-07-15,No
+stanford.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-11-06,No
+blog.jp,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-19,No
+voanews.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-07,No
+godaddy.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-30,No
+ca.gov,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-09-11,No
+ning.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2027-01-30,No
+rbc.ru,Yes,"CN=YE2,O=Let's Encrypt,C=US",2026-08-29,No
+amazon.com,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-18,No
+bing.com,Yes,"CN=Microsoft TLS G2 RSA CA OCSP 02,O=Microsoft Corporation,C=US",2026-10-30,No
+impress.co.jp,No,SSL_ERROR,,
+sohu.com,Yes,"CN=DigiCert Secure Site OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-08-11,No
+mathworks.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-02-19,No
+atlassian.net,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-10-08,No
+163.com,Yes,"CN=GeoTrust G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US",2026-10-24,No
+ubc.ca,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-10-14,No
+banggood.com,Yes,"CN=TrustAsia TLS Pro RSA CA 2025,O=TrustAsia Technologies\, Inc.,C=CN",2026-12-11,No
+yale.edu,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-06-25,No
+nii.ac.jp,No,DNS_ERROR (domain not resolved),,
+weebly.com,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-07-11,No
+mpg.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-07,No
+craigslist.org,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2027-01-31,No
+usda.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-10-09,No
+exblog.jp,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-02-03,No
+freelancer.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-10-12,No
+hh.ru,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-10-11,No
+unam.mx,Yes,"CN=GlobalSign GCC R3 EV TLS CA 2025,O=GlobalSign nv-sa,C=BE",2027-02-28,No
+cloudfront.net,No,DNS_ERROR (domain not resolved),,
+nsw.gov.au,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-10-09,No
+duke.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-11-06,No
+louisvuitton.com,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-10-08,No
+samsung.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-10-23,No
+informator.ua,Yes,"CN=YE1,O=Let's Encrypt,C=US",2026-08-27,No
+shopify.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-13,No
+tistory.com,Yes,"CN=Thawte TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-10-14,No
+cocolog-nifty.com,No,DNS_ERROR (domain not resolved),,
+hatenablog.jp,Yes,"CN=Amazon RSA 2048 M03,O=Amazon,C=US",2026-08-09,No
+af.mil,No,DNS_ERROR (domain not resolved),,
+hotels.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-07,No
+cuni.cz,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-08-25,No
+psu.edu,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-09-06,No
+admin.ch,Yes,"CN=SwissSign RSA TLS OV ICA 2022 - 1,O=SwissSign AG,C=CH",2026-10-22,No
+wikidot.com,Yes,"CN=Sectigo Public Server Authentication CA DV E36,O=Sectigo Limited,C=GB",2027-02-03,No
+illinois.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-12-07,No
+iheart.com,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1,O=GlobalSign nv-sa,C=BE",2027-03-09,No
+sap.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-10,No
+usp.br,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-09-16,No
+archive.org,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2027-02-09,No
+opera.com,Yes,"CN=Trust Provider B.V. TLS RSA CA G1,OU=Domain Validated SSL,O=Trust Provider B.V.,C=NL",2027-02-06,No
+over-blog.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-05,No
+gov.ru,No,TIMEOUT,,
+scribd.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-27,No
+usgs.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-10,No
+narod.ru,Yes,"CN=GlobalSign GCC R6 AlphaSSL CA 2025,O=GlobalSign nv-sa,C=BE",2026-08-16,No
+mynavi.jp,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-10-23,No
+usu.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2027-04-05,No
+baidu.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-08-10,No
+ubuntu.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-16,No
+porsche.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2027-02-09,No
+kremlin.ru,No,TIMEOUT,,
+nist.gov,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-02,No
+krakow.pl,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-06,No
+steampowered.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-03,No
+salesforce.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-02,No
+texas.gov,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-12-08,No
+android.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+statcounter.com,Yes,"CN=Cloudflare TLS Issuing ECC CA 3,O=SSL Corporation,C=US",2026-08-29,No
+dict.cc,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-07-13,No
+teachable.com,Yes,"CN=YE1,O=Let's Encrypt,C=US",2026-08-28,No
+canalblog.com,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-07-05,No
+ntu.edu.tw,No,DNS_ERROR (domain not resolved),,
+bnf.fr,Yes,"CN=Trust Provider B.V. TLS RSA EV CA G2,O=Trust Provider B.V.,C=NL",2026-11-29,No
+harvard.edu,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-08-07,No
+afternic.com,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-12-20,No
+itmedia.co.jp,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-12-24,No
+seesaa.net,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-26,No
+exlibrisgroup.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-08,No
+org.ru,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-20,No
+onet.pl,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-05,No
+hypotheses.org,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-03,No
+cam.ac.uk,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-26,No
+appspot.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+playstation.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-06-12,No
+24tv.ua,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-18,No
+linternaute.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-12-08,No
+cornell.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-07-02,No
+sapo.pt,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-07,No
+jd.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-12-20,No
+ibm.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-17,No
+fedoraproject.org,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-26,No
+archlinux.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-12,No
+un.org,Yes,"CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB",2026-09-05,No
+unibo.it,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-08-18,No
+wikibooks.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+uefa.com,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2027-02-06,No
+uni-heidelberg.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-12,No
+redhat.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-16,No
+kayak.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-30,No
+semrush.com,Yes,"CN=WR3,O=Google Trust Services,C=US",2026-08-24,No
+upenn.edu,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-05,No
+trip.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-08-30,No
+canada.ca,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2027-02-14,No
+docomo.ne.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-10-28,No
+ceskatelevize.cz,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-06-27,No
+wikiquote.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+livejournal.com,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2027-03-28,No
+hse.ru,Yes,"CN=GlobalSign GCC R6 AlphaSSL CA 2025,O=GlobalSign nv-sa,C=BE",2027-03-29,No
+academic.ru,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-06-21,No
+wa.gov,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-21,No
+hatena.ne.jp,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-10-10,No
+ub.edu,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-14,No
+hawaii.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-11-07,No
+hateblo.jp,Yes,"CN=Amazon RSA 2048 M03,O=Amazon,C=US",2026-08-09,No
+victoriassecret.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-11-27,No
+washington.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-07-09,No
+hm.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-15,No
+antaranews.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-08-29,No
+gouv.qc.ca,No,DNS_ERROR (domain not resolved),,
+err.ee,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-18,No
+globalvoices.org,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-10-31,No
+chinadaily.com.cn,Yes,"CN=WoTrus RSA OV SSL CA 2,O=WoTrus CA Limited,C=CN",2027-02-12,No
+telegra.ph,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-10-22,No
+talent.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-01-22,No
+utoronto.ca,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-24,No
+shop-pro.jp,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2027-03-17,No
+livedoor.blog,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-19,No
+poznan.pl,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-26,No
+nicovideo.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-12-13,No
+ru-best.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-16,No
+finalsite.net,No,TIMEOUT,,
+uscourts.gov,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-11-26,No
+foursquare.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-18,No
+ria.ru,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-06-20,No
+frontiersin.org,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-11-28,No
+wix.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-19,No
+tradingview.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-01-10,No
+ndl.go.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2027-01-10,No
+uk.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-22,No
+yorku.ca,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-09-26,No
+army.mil,No,DNS_ERROR (domain not resolved),,
+univie.ac.at,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-06-20,No
+telegram.org,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-09-12,No
+rutgers.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-10-01,No
+t.me,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-11-22,No
+sch.gr,Yes,"CN=HARICA Institutional TLS RSA 2,O=Hellenic Academic and Research Institutions CA,C=GR",2027-01-07,No
+elespanol.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-11-15,No
+vietnamplus.vn,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-07-28,No
+motorsport.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-26,No
+gva.es,No,DNS_ERROR (domain not resolved),,
+siemens.com,Yes,"CN=Amazon ECDSA 256 M01,O=Amazon,C=US",2027-02-13,No
+apache.org,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-13,No
+muni.cz,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-10,No
+chinaz.com,Yes,"CN=TrustAsia DV TLS RSA CA 2025,O=TrustAsia Technologies\, Inc.,C=CN",2026-08-08,No
+nyu.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-10-08,No
+www.gov.uk,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-12-28,No
+google.cn,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+idnes.cz,Yes,"CN=Sectigo Public Server Authentication CA DV E36,O=Sectigo Limited,C=GB",2027-02-08,No
+utexas.edu,Yes,"CN=YR1,O=Let's Encrypt,C=US",2026-09-01,No
+umn.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-11-05,No
+arizona.edu,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-07-03,No
+iol.pt,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-10-23,No
+msu.edu,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2026 Q1,O=GlobalSign nv-sa,C=BE",2026-06-28,No
+princeton.edu,Yes,"CN=InCommon RSA OV SSL CA 3,O=InCommon\, LLC,C=US",2026-12-12,No
+umd.edu,Yes,"CN=YE2,O=Let's Encrypt,C=US",2026-09-01,No
+yahoo.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-08-26,No
+marketscreener.com,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-11-26,No
+wikinews.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+aliyun.com,Yes,"CN=GlobalSign GCC R3 OV TLS CA 2024,O=GlobalSign nv-sa,C=BE",2026-09-05,No
+hp.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-06-10,No
+walkerplus.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-27,No
+azurewebsites.net,No,DNS_ERROR (domain not resolved),,
+ucla.edu,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-09-16,No
+r-project.org,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2027-01-16,No
+iastate.edu,Yes,"CN=InCommon ECC Server CA 2,O=Internet2,C=US",2026-06-29,No
+people.com.cn,No,TIMEOUT,,
+ucm.es,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-04,No
+libretexts.org,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-27,No
+columbia.edu,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-15,No
+buzzsprout.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-13,No
+workplace.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-06-12,No
+cnr.it,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-21,No
+youtube-nocookie.com,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+bubblelife.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-09-11,No
+vecteezy.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-14,No
+interfax.com.ua,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-19,No
+hugedomains.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-22,No
+purdue.edu,Yes,"CN=InCommon RSA OV SSL CA 3,O=InCommon\, LLC,C=US",2026-11-27,No
+ucsb.edu,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-24,No
+senate.gov,Yes,"CN=DigiCert EV RSA CA G2,O=DigiCert Inc,C=US",2026-12-12,No
+espn.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-11-10,No
+wroc.pl,No,DNS_ERROR (domain not resolved),,
+atlassian.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-11-13,No
+uni-bonn.de,Yes,"CN=YE1,O=Let's Encrypt,C=US",2026-09-02,No
+cern.ch,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-11-24,No
+mn.gov,Yes,"CN=Sectigo Public Server Authentication CA EV R36,O=Sectigo Limited,C=GB",2026-10-10,No
+weblio.jp,Yes,"CN=GlobalSign Atlas R3 OV TLS CA 2025 Q4,O=GlobalSign nv-sa,C=BE",2027-01-06,No
+virginia.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-13,No
+er.ru,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-12-13,No
+lodz.pl,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-25,No
+interia.pl,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-08-08,No
+nrw.de,No,SSL_ERROR,,
+anu.edu.au,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-07-15,No
+tengrinews.kz,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-06-13,No
+snu.ac.kr,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-07-15,No
+unsplash.com,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4,O=GlobalSign nv-sa,C=BE",2027-01-09,No
+in.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-24,No
+uab.cat,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-22,No
+trend.az,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-08,No
+tum.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-20,No
+panasonic.com,Yes,"CN=Cybertrust Japan SureServer CA G4,O=Cybertrust Japan Co.\, Ltd.,C=JP",2026-11-03,No
+cineca.it,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-17,No
+uni-tuebingen.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-01,No
+house.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-13,No
+iu.edu,Yes,"CN=InCommon RSA OV SSL CA 3,O=InCommon\, LLC,C=US",2026-12-03,No
+intuit.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-06,No
+uwaterloo.ca,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-06-24,No
+chinanews.com.cn,No,DNS_ERROR (domain not resolved),,
+hu-berlin.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2027-01-29,No
+msu.ru,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-06-26,No
+diva-portal.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-07,No
+ncsu.edu,Yes,"CN=InCommon ECC Server CA 2,O=Internet2,C=US",2027-03-05,No
+hubspot.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-14,No
+cbsnews.com,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-07-30,No
+blog.hu,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-09-29,No
+vercel.app,Yes,"CN=WR1,O=Google Trust Services,C=US",2026-07-27,No
+msk.ru,No,SSL_ERROR,,
+garmin.com,Yes,"CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US",2026-11-10,No
+ethz.ch,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-08-23,No
+indiana.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-10-26,No
+mhlw.go.jp,No,DNS_ERROR (domain not resolved),,
+ndtv.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-11-05,No
+donga.com,No,TIMEOUT,,
+gta5-mods.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-05,No
+ufsc.br,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+habr.com,Yes,"CN=Sectigo Public Server Authentication CA DV E36,O=Sectigo Limited,C=GB",2027-01-08,No
+fu-berlin.de,Yes,"CN=GEANT TLS ECC 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-21,No
+legistar.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-31,No
+ugent.be,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-13,No
+unl.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-09-30,No
+eclipse.org,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-19,No
+freebsd.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-12,No
+tvbs.com.tw,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-12-31,No
+wikisource.org,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-06,No
+com.ru,No,SSL_ERROR,,
+stripe.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-09-03,No
+kit.edu,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-31,No
+podbean.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-05,No
+gamer.com.tw,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-18,No
+ufrj.br,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-27,No
+tvp.pl,Yes,"CN=Certum DV TLS G2 R39 CA,O=Asseco Data Systems S.A.,C=PL",2027-01-09,No
+rozhlas.cz,Yes,"CN=Thawte TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-06-13,No
+mediaset.it,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-17,No
+bsky.app,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-02-12,No
+unesp.br,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-10-03,No
+sky.it,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-12-07,No
+tableau.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-11,No
+co.ua,No,DNS_ERROR (domain not resolved),,
+hpe.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-23,No
+omeka.net,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-22,No
+u-tokyo.ac.jp,No,DNS_ERROR (domain not resolved),,
+rs-online.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-23,No
+usc.edu,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-16,No
+rabota.ru,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-22,No
+uct.ac.za,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-09-08,No
+niedersachsen.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-21,No
+st-andrews.ac.uk,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-19,No
+virginia.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-12-12,No
+unlp.edu.ar,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-25,No
+arcgis.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-18,No
+r7.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2027-01-26,No
+pchome.com.tw,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2027-01-15,No
+china.com,No,DNS_ERROR (domain not resolved),,
+unian.net,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-19,No
+blic.rs,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-07-25,No
+sputniknews.ru,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-12,No
+helsinki.fi,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-10,No
+office.com,Yes,"CN=Microsoft TLS G2 RSA CA OCSP 10,O=Microsoft Corporation,C=US",2026-11-29,No
+tufts.edu,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-06-25,No
+hatenadiary.jp,Yes,"CN=Amazon RSA 2048 M03,O=Amazon,C=US",2026-08-09,No
+twitch.tv,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2026 Q2,O=GlobalSign nv-sa,C=BE",2026-11-09,No
+upc.edu,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-14,No
+gatech.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2027-02-13,No
+ed.ac.uk,No,TIMEOUT,,
+zenit.org,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-09,No
+copernicus.org,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-27,No
+wustl.edu,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-06,No
+bme.hu,Yes,"CN=YE2,O=Let's Encrypt,C=US",2026-08-30,No
+nt.gov.au,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-13,No
+newsru.com,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-12,No
+uc.pt,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-07-01,No
+gov.sk,Yes,"CN=Thawte EV RSA CA G2,O=DigiCert Inc,C=US",2026-07-15,No
+gutenberg.org,Yes,"CN=Network Solutions RSA OV SSL CA 3,O=Network Solutions L.L.C.,C=US",2026-11-14,No
+perfil.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-09-02,No
+zeffy.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-25,No
+uni-lj.si,No,TIMEOUT,,
+bayern.de,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-07,No
+uber.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2027-02-16,No
+24.hu,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-07-16,No
+check24.de,Yes,"CN=ZeroSSL ECC DV SSL CA 2,O=ZeroSSL GmbH,C=AT",2026-07-21,No
+uni-stuttgart.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-10,No
+justice.gc.ca,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2027-02-28,No
+maryland.gov,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-10,No
+uba.ar,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-08,No
+main.jp,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-10-29,No
+puma.com,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-06-24,No
+overdrive.com,Yes,"CN=WR1,O=Google Trust Services,C=US",2026-08-09,No
+imgur.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2027-02-15,No
+readthedocs.io,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-27,No
+vt.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2027-01-14,No
+service.gov.uk,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-12-28,No
+uq.edu.au,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-24,No
+rbc.ua,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-17,No
+jotform.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-08-20,No
+developpement-durable.gouv.fr,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-11,No
+rtp.pt,Yes,"CN=GlobalSign GCC R6 AlphaSSL CA 2025,O=GlobalSign nv-sa,C=BE",2026-09-27,No
+go.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-08-28,No
+ut.ac.ir,Yes,"CN=Certum Domain Validation CA SHA2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL",2026-08-05,No
+prnewswire.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-15,No
+news12.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-14,No
+colorado.edu,Yes,"CN=Certainly Intermediate R1,O=Certainly,C=US",2026-06-25,No
+archives.gov,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2026-10-31,No
+entrepreneur.com,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4,O=GlobalSign nv-sa,C=BE",2027-01-09,No
+cnrs.fr,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-26,No
+keizai.biz,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-11-30,No
+ufl.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2027-02-05,No
+huaweicloud.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-30,No
+unistra.fr,Yes,"CN=GEANT TLS ECC 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-09,No
+toyota.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-10-07,No
+stlouisfed.org,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-06,No
+unt.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-09-03,No
+detik.com,Yes,"CN=Thawte TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-12-22,No
+sld.cu,No,DNS_ERROR (domain not resolved),,
+temple.edu,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-10-29,No
+fau.de,Yes,"CN=GEANT TLS ECC 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-19,No
+byu.edu,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-09,No
+unito.it,Yes,"CN=E8,O=Let's Encrypt,C=US",2026-08-15,No
+uga.edu,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-18,No
+vk.com,Yes,"CN=GlobalSign ECC OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-03,No
+herokuapp.com,No,SSL_ERROR,,
+ulisboa.pt,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-24,No
+freshdesk.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-08-06,No
+ilsole24ore.com,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-07-15,No
+excite.co.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-12-07,No
+hautetfort.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-06-21,No
+twitcasting.tv,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2027-01-07,No
+aliexpress.com,Yes,"CN=GlobalSign GCC R3 OV TLS CA 2024,O=GlobalSign nv-sa,C=BE",2026-12-03,No
+ucsd.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2027-04-11,No
+uv.es,No,DNS_ERROR (domain not resolved),,
+utah.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-11-18,No
+rp.pl,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-27,No
+cancer.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-10,No
+tyc.edu.tw,No,DNS_ERROR (domain not resolved),,
+icm.edu.pl,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-28,No
+spotify.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-08,No
+osu.edu,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-08-29,No
+timesnownews.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-22,No
+hessen.de,Yes,"CN=SwissSign RSA TLS OV ICA 2022 - 1,O=SwissSign AG,C=CH",2026-10-22,No
+odoo.com,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-06-27,No
+globo.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-01,No
+krymr.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-20,No
+jw.org,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-03,No
+gov.si,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2026-12-22,No
+techradar.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-22,No
+wipo.int,Yes,"CN=Thawte TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-07-07,No
+bund.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-02,No
+itu.edu.tr,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-09-04,No
+upm.es,Yes,"CN=GEANT TLS ECC 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-13,No
+flagcounter.com,Yes,"CN=YE1,O=Let's Encrypt,C=US",2026-08-30,No
+aladin.co.kr,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-09-01,No
+uchile.cl,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-11-06,No
+hindustantimes.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-10-11,No
+bg.ac.rs,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-29,No
+hudl.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-09-26,No
+17173.com,Yes,"CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-09-12,No
+taobao.com,Yes,"CN=GlobalSign GCC R3 OV TLS CA 2024,O=GlobalSign nv-sa,C=BE",2026-11-22,No
+mcmaster.ca,Yes,"CN=Sectigo Public Server Authentication CA EV R36,O=Sectigo Limited,C=GB",2026-11-01,No
+fao.org,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-28,No
+uiowa.edu,Yes,"CN=InCommon RSA Server CA 2,O=Internet2,C=US",2026-09-10,No
+statcan.gc.ca,Yes,"CN=YR2,O=Let's Encrypt,C=US",2026-09-02,No
+wikileaks.org,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-13,No
+mts.ru,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-11-05,No
+indiamart.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-10-01,No
+uniroma1.it,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-11-06,No
+lublin.pl,Yes,"CN=info.man.lublin.pl,OU=CC,O=LubMAN Sp. z o.o.,L=Lublin,ST=lubelskie,C=PL",2024-11-29,Yes
+ihk.de,Yes,"CN=D-TRUST BR CA 2-23-1 2023,O=D-Trust GmbH,C=DE",2026-10-22,No
+unb.br,Yes,"CN=RNP ICPEdu GR46 OV TLS CA 2025,O=REDE NACIONAL DE ENSINO E PESQUISA - RNP,C=BR",2026-11-30,No
+usf.edu,Yes,"CN=InCommon RSA OV SSL CA 3,O=InCommon\, LLC,C=US",2026-12-17,No
+cisco.com,Yes,"CN=HydrantID Server CA O1,OU=HydrantID Trusted Certificate Service,O=IdenTrust,C=US",2026-09-21,No
+vice.com,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-08-07,No
+neocities.org,Yes,"CN=YR1,O=Let's Encrypt,C=US",2026-08-29,No
+qoo-app.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-09-22,No
+defense.gouv.fr,Yes,"CN=Sectigo Qualified Website Authentication CA R39,O=Sectigo (Europe) SL,C=ES",2027-04-09,No
+kp.ru,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-16,No
+yourdictionary.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-12-15,No
+ettoday.net,Yes,"CN=TWCA Secure SSL Certification Authority,O=TAIWAN-CA,C=TW",2026-08-31,No
+libreoffice.org,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-21,No
+biglobe.ne.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2027-02-18,No
+fraunhofer.de,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-10-21,No
+w3.org,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-08-09,No
+bibliocommons.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-12-05,No
+bigmir.net,Yes,"CN=YR1,O=Let's Encrypt,C=US",2026-08-31,No
+ku.edu,Yes,"CN=InCommon ECC Server CA 2,O=Internet2,C=US",2026-07-10,No
+shueisha.co.jp,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-11-07,No
+gitlab.com,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-11-10,No
+cbssports.com,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2026-12-02,No
+huawei.com,No,SSL_ERROR,,
+uni-hamburg.de,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-07,No
+nvidia.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-11-03,No
+latimes.com,Yes,"CN=Amazon RSA 2048 M04,O=Amazon,C=US",2026-11-12,No
+dnevnik.hr,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-10-02,No
+gov.hr,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2027-02-21,No
+merriam-webster.com,Yes,"CN=Amazon RSA 2048 M01,O=Amazon,C=US",2026-09-09,No
+yandex.by,Yes,"CN=GlobalSign ECC OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2026-08-06,No
+cuny.edu,Yes,"CN=Sectigo Public Server Authentication CA OV R36,O=Sectigo Limited,C=GB",2027-03-02,No
+mk.ru,Yes,"CN=GlobalSign GCC R6 AlphaSSL CA 2025,O=GlobalSign nv-sa,C=BE",2026-09-23,No
+unc.edu,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-23,No
+gnome.org,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-08-24,No
+jst.go.jp,No,DNS_ERROR (domain not resolved),,
+unicamp.br,Yes,"CN=R12,O=Let's Encrypt,C=US",2026-07-28,No
+foxnews.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2027-02-24,No
+ed.gov,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2026-07-26,No
+pp.ua,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-05,No
+ojp.gov,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-08-14,No
+danawa.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-02-06,No
+tensorflow.org,Yes,"CN=WR2,O=Google Trust Services,C=US",2026-08-10,No
+ifeng.com,No,TIMEOUT,,
+kde.org,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-11-01,No
+box.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-12-22,No
+kommersant.ru,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-28,No
+unity.com,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-08-19,No
+drupal.org,Yes,"CN=GlobalSign Atlas R3 DV TLS CA 2025 Q4,O=GlobalSign nv-sa,C=BE",2027-01-09,No
+walla.co.il,Yes,"CN=E7,O=Let's Encrypt,C=US",2026-07-30,No
+unl.pt,Yes,"CN=GEANT TLS RSA 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-16,No
+as.com,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-08-24,No
+ccm.net,Yes,"CN=DigiCert Global G3 TLS ECC SHA384 2020 CA1,O=DigiCert Inc,C=US",2026-09-27,No
+binance.com,Yes,"CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US",2027-01-09,No
+caixin.com,Yes,"CN=WoTrus RSA OV SSL CA 2,O=WoTrus CA Limited,C=CN",2026-11-05,No
+rediff.com,Yes,"CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US",2026-11-21,No
+republika.co.id,Yes,"CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",2026-10-03,No
+correiobraziliense.com.br,Yes,"CN=R13,O=Let's Encrypt,C=US",2026-07-26,No
+ebc.com.br,Yes,"CN=GlobalSign GCC R3 DV TLS CA 2020,O=GlobalSign nv-sa,C=BE",2026-10-23,No
+uni-goettingen.de,Yes,"CN=GEANT TLS ECC 1,O=Hellenic Academic and Research Institutions CA,C=GR",2026-12-23,No
+uservoice.com,Yes,"CN=WE1,O=Google Trust Services,C=US",2026-07-22,No
+culture.gouv.fr,Yes,"CN=YE2,O=Let's Encrypt,C=US",2026-08-31,No
+dmm.com,Yes,"CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE",2027-03-24,No
+gov.bc.ca,Yes,"CN=Entrust OV TLS Issuing RSA CA 2,O=Entrust Limited,C=CA",2026-07-22,No

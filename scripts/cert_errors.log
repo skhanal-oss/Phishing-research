@@ -1,0 +1,35 @@
+[SSL_ERROR] spb.ru -> [WinError 10061] No connection could be made because the target machine actively refused it
+[DNS_ERROR (domain not resolved)] wixsite.com -> [Errno 11001] getaddrinfo failed
+[SSL_ERROR] impress.co.jp -> [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)
+[DNS_ERROR (domain not resolved)] nii.ac.jp -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] cloudfront.net -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] cocolog-nifty.com -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] af.mil -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] gov.ru -> timed out
+[TIMEOUT] kremlin.ru -> timed out
+[DNS_ERROR (domain not resolved)] ntu.edu.tw -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] gouv.qc.ca -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] finalsite.net -> timed out
+[DNS_ERROR (domain not resolved)] army.mil -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] gva.es -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] azurewebsites.net -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] people.com.cn -> timed out
+[DNS_ERROR (domain not resolved)] wroc.pl -> [Errno 11001] getaddrinfo failed
+[SSL_ERROR] nrw.de -> [WinError 10061] No connection could be made because the target machine actively refused it
+[DNS_ERROR (domain not resolved)] chinanews.com.cn -> [Errno 11001] getaddrinfo failed
+[SSL_ERROR] msk.ru -> [WinError 10061] No connection could be made because the target machine actively refused it
+[DNS_ERROR (domain not resolved)] mhlw.go.jp -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] donga.com -> _ssl.c:983: The handshake operation timed out
+[SSL_ERROR] com.ru -> [WinError 10061] No connection could be made because the target machine actively refused it
+[DNS_ERROR (domain not resolved)] co.ua -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] u-tokyo.ac.jp -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] china.com -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] ed.ac.uk -> timed out
+[TIMEOUT] uni-lj.si -> timed out
+[DNS_ERROR (domain not resolved)] sld.cu -> [Errno 11001] getaddrinfo failed
+[SSL_ERROR] herokuapp.com -> [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)
+[DNS_ERROR (domain not resolved)] uv.es -> [Errno 11001] getaddrinfo failed
+[DNS_ERROR (domain not resolved)] tyc.edu.tw -> [Errno 11001] getaddrinfo failed
+[SSL_ERROR] huawei.com -> [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)
+[DNS_ERROR (domain not resolved)] jst.go.jp -> [Errno 11001] getaddrinfo failed
+[TIMEOUT] ifeng.com -> timed out
